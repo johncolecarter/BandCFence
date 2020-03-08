@@ -64,7 +64,7 @@ namespace BandCFenceAPI.Infrastructure.Data
 
         public Builder Update(Builder builder)
         {
-            var existingBuilder = _dbContext.Builders.Find(builder.Id);
+            var existingBuilder = _dbContext.Builders.FirstOrDefault(b => b.Id == builder.Id);
 
             if (existingBuilder == null)
                 return null;

@@ -11,3 +11,16 @@
 /Users/colecarter/Documents/BandCFence/BandCFenceAPI/BandCFenceAPI.Infrastructure/obj/Debug/netcoreapp2.2/BandCFenceAPI.Infrastructure.csproj.CopyComplete
 /Users/colecarter/Documents/BandCFence/BandCFenceAPI/BandCFenceAPI.Infrastructure/obj/Debug/netcoreapp2.2/BandCFenceAPI.Infrastructure.dll
 /Users/colecarter/Documents/BandCFence/BandCFenceAPI/BandCFenceAPI.Infrastructure/obj/Debug/netcoreapp2.2/BandCFenceAPI.Infrastructure.pdb
+/Users/colecarter/Documents/BandCFenceAPI/BandCFenceAPI.Infrastructure/bin/Debug/netcoreapp2.2/BandCFenceAPI.Infrastructure.deps.json
+/Users/colecarter/Documents/BandCFenceAPI/BandCFenceAPI.Infrastructure/bin/Debug/netcoreapp2.2/BandCFenceAPI.Infrastructure.runtimeconfig.json
+/Users/colecarter/Documents/BandCFenceAPI/BandCFenceAPI.Infrastructure/bin/Debug/netcoreapp2.2/BandCFenceAPI.Infrastructure.runtimeconfig.dev.json
+/Users/colecarter/Documents/BandCFenceAPI/BandCFenceAPI.Infrastructure/bin/Debug/netcoreapp2.2/BandCFenceAPI.Infrastructure.dll
+/Users/colecarter/Documents/BandCFenceAPI/BandCFenceAPI.Infrastructure/bin/Debug/netcoreapp2.2/BandCFenceAPI.Infrastructure.pdb
+/Users/colecarter/Documents/BandCFenceAPI/BandCFenceAPI.Infrastructure/bin/Debug/netcoreapp2.2/BandCFenceAPI.Core.dll
+/Users/colecarter/Documents/BandCFenceAPI/BandCFenceAPI.Infrastructure/bin/Debug/netcoreapp2.2/BandCFenceAPI.Core.pdb
+/Users/colecarter/Documents/BandCFenceAPI/BandCFenceAPI.Infrastructure/obj/Debug/netcoreapp2.2/BandCFenceAPI.Infrastructure.csprojAssemblyReference.cache
+/Users/colecarter/Documents/BandCFenceAPI/BandCFenceAPI.Infrastructure/obj/Debug/netcoreapp2.2/BandCFenceAPI.Infrastructure.AssemblyInfoInputs.cache
+/Users/colecarter/Documents/BandCFenceAPI/BandCFenceAPI.Infrastructure/obj/Debug/netcoreapp2.2/BandCFenceAPI.Infrastructure.AssemblyInfo.cs
+/Users/colecarter/Documents/BandCFenceAPI/BandCFenceAPI.Infrastructure/obj/Debug/netcoreapp2.2/BandCFenceAPI.Infrastructure.csproj.CopyComplete
+/Users/colecarter/Documents/BandCFenceAPI/BandCFenceAPI.Infrastructure/obj/Debug/netcoreapp2.2/BandCFenceAPI.Infrastructure.dll
+/Users/colecarter/Documents/BandCFenceAPI/BandCFenceAPI.Infrastructure/obj/Debug/netcoreapp2.2/BandCFenceAPI.Infrastructure.pdb

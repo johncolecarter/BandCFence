@@ -100,13 +100,13 @@ namespace BandCFenceAPI.Controllers
 
         //PUT api/fences/id
         [HttpPut("{id}")]
-        public IActionResult Put(int id, [FromBody] FenceModel fenceModel)
+        public IActionResult Put(int id, [FromBody] Fence fenceModel)
         {
             try
             {
-                var f = _fenceService.Update(fenceModel.ToDomainModel());
+                var f = _fenceService.Update(fenceModel).ToApiModel();
 
-                return Ok(f.ToApiModel());
+                return Ok(f);
             }
             catch (Exception ex)
             {

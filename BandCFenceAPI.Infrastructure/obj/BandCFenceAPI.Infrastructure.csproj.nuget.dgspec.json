@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/colecarter/Documents/BandCFence/BandCFenceAPI/BandCFenceAPI.Infrastructure/BandCFenceAPI.Infrastructure.csproj": {}
+    "/Users/colecarter/Documents/BandCFenceAPI/BandCFenceAPI.Infrastructure/BandCFenceAPI.Infrastructure.csproj": {}
   },
   "projects": {
-    "/Users/colecarter/Documents/BandCFence/BandCFenceAPI/BandCFenceAPI.Core/BandCFenceAPI.Core.csproj": {
+    "/Users/colecarter/Documents/BandCFenceAPI/BandCFenceAPI.Core/BandCFenceAPI.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/colecarter/Documents/BandCFence/BandCFenceAPI/BandCFenceAPI.Core/BandCFenceAPI.Core.csproj",
+        "projectUniqueName": "/Users/colecarter/Documents/BandCFenceAPI/BandCFenceAPI.Core/BandCFenceAPI.Core.csproj",
         "projectName": "BandCFenceAPI.Core",
-        "projectPath": "/Users/colecarter/Documents/BandCFence/BandCFenceAPI/BandCFenceAPI.Core/BandCFenceAPI.Core.csproj",
+        "projectPath": "/Users/colecarter/Documents/BandCFenceAPI/BandCFenceAPI.Core/BandCFenceAPI.Core.csproj",
         "packagesPath": "/Users/colecarter/.nuget/packages/",
-        "outputPath": "/Users/colecarter/Documents/BandCFence/BandCFenceAPI/BandCFenceAPI.Core/obj/",
+        "outputPath": "/Users/colecarter/Documents/BandCFenceAPI/BandCFenceAPI.Core/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -76,14 +76,14 @@
         }
       }
     },
-    "/Users/colecarter/Documents/BandCFence/BandCFenceAPI/BandCFenceAPI.Infrastructure/BandCFenceAPI.Infrastructure.csproj": {
+    "/Users/colecarter/Documents/BandCFenceAPI/BandCFenceAPI.Infrastructure/BandCFenceAPI.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/colecarter/Documents/BandCFence/BandCFenceAPI/BandCFenceAPI.Infrastructure/BandCFenceAPI.Infrastructure.csproj",
+        "projectUniqueName": "/Users/colecarter/Documents/BandCFenceAPI/BandCFenceAPI.Infrastructure/BandCFenceAPI.Infrastructure.csproj",
         "projectName": "BandCFenceAPI.Infrastructure",
-        "projectPath": "/Users/colecarter/Documents/BandCFence/BandCFenceAPI/BandCFenceAPI.Infrastructure/BandCFenceAPI.Infrastructure.csproj",
+        "projectPath": "/Users/colecarter/Documents/BandCFenceAPI/BandCFenceAPI.Infrastructure/BandCFenceAPI.Infrastructure.csproj",
         "packagesPath": "/Users/colecarter/.nuget/packages/",
-        "outputPath": "/Users/colecarter/Documents/BandCFence/BandCFenceAPI/BandCFenceAPI.Infrastructure/obj/",
+        "outputPath": "/Users/colecarter/Documents/BandCFenceAPI/BandCFenceAPI.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -100,8 +100,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "/Users/colecarter/Documents/BandCFence/BandCFenceAPI/BandCFenceAPI.Core/BandCFenceAPI.Core.csproj": {
-                "projectPath": "/Users/colecarter/Documents/BandCFence/BandCFenceAPI/BandCFenceAPI.Core/BandCFenceAPI.Core.csproj"
+              "/Users/colecarter/Documents/BandCFenceAPI/BandCFenceAPI.Core/BandCFenceAPI.Core.csproj": {
+                "projectPath": "/Users/colecarter/Documents/BandCFenceAPI/BandCFenceAPI.Core/BandCFenceAPI.Core.csproj"
               }
             }
           }

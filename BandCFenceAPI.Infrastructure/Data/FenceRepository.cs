@@ -83,7 +83,7 @@ namespace BandCFenceAPI.Infrastructure.Data
 
         public Fence Update(Fence updateFence)
         {
-            var existingFence = _dbContext.Fences.Find(updateFence.Id);
+            var existingFence = _dbContext.Fences.FirstOrDefault(f => f.Id == updateFence.Id);
 
             if (existingFence == null)
                 return null;
