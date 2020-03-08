@@ -1,0 +1,31 @@
+﻿using System;
+using System.Collections.Generic;
+using BandCFenceAPI.Core.Models;
+
+namespace BandCFenceAPI.Core.Services
+{
+    public interface IFenceRepository
+    {
+        Fence Get(int id);
+
+        Fence GetBuilder(string builder);
+
+        Fence GetType(string typeOfFence);
+
+        Fence GetHeight(string heightOfFence);
+
+        Fence GetFeet(int feetOfFence);
+
+        Fence GetAddress(string address);
+
+        Fence GetDate(DateTime dateTime);
+
+        IEnumerable<Fence> GetAll();
+
+        Fence Add(Fence addFence);
+
+        Fence Update(Fence updateFence);
+
+        void Remove(int id);
+    }
+}

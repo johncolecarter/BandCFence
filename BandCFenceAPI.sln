@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BandCFenceAPI", "BandCFenceAPI\BandCFenceAPI.csproj", "{7847D449-D12B-4F1C-8CBA-D49EA296E9E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BandCFenceAPI.Core", "BandCFenceAPI.Core\BandCFenceAPI.Core.csproj", "{CCB255A7-2416-487F-92AE-0A3F5C179AF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BandCFenceAPI.Infrastructure", "BandCFenceAPI.Infrastructure\BandCFenceAPI.Infrastructure.csproj", "{044E8E3A-CE95-455C-BE0A-FF743B4E13EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7847D449-D12B-4F1C-8CBA-D49EA296E9E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7847D449-D12B-4F1C-8CBA-D49EA296E9E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7847D449-D12B-4F1C-8CBA-D49EA296E9E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7847D449-D12B-4F1C-8CBA-D49EA296E9E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCB255A7-2416-487F-92AE-0A3F5C179AF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCB255A7-2416-487F-92AE-0A3F5C179AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCB255A7-2416-487F-92AE-0A3F5C179AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCB255A7-2416-487F-92AE-0A3F5C179AF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{044E8E3A-CE95-455C-BE0A-FF743B4E13EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{044E8E3A-CE95-455C-BE0A-FF743B4E13EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{044E8E3A-CE95-455C-BE0A-FF743B4E13EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{044E8E3A-CE95-455C-BE0A-FF743B4E13EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

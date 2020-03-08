@@ -1,0 +1,8 @@
+/Users/colecarter/Documents/BandCFence/BandCFenceAPI/BandCFenceAPI.Core/bin/Debug/netcoreapp2.2/BandCFenceAPI.Core.deps.json
+/Users/colecarter/Documents/BandCFence/BandCFenceAPI/BandCFenceAPI.Core/bin/Debug/netcoreapp2.2/BandCFenceAPI.Core.dll
+/Users/colecarter/Documents/BandCFence/BandCFenceAPI/BandCFenceAPI.Core/bin/Debug/netcoreapp2.2/BandCFenceAPI.Core.pdb
+/Users/colecarter/Documents/BandCFence/BandCFenceAPI/BandCFenceAPI.Core/obj/Debug/netcoreapp2.2/BandCFenceAPI.Core.csprojAssemblyReference.cache
+/Users/colecarter/Documents/BandCFence/BandCFenceAPI/BandCFenceAPI.Core/obj/Debug/netcoreapp2.2/BandCFenceAPI.Core.AssemblyInfoInputs.cache
+/Users/colecarter/Documents/BandCFence/BandCFenceAPI/BandCFenceAPI.Core/obj/Debug/netcoreapp2.2/BandCFenceAPI.Core.AssemblyInfo.cs
+/Users/colecarter/Documents/BandCFence/BandCFenceAPI/BandCFenceAPI.Core/obj/Debug/netcoreapp2.2/BandCFenceAPI.Core.dll
+/Users/colecarter/Documents/BandCFence/BandCFenceAPI/BandCFenceAPI.Core/obj/Debug/netcoreapp2.2/BandCFenceAPI.Core.pdb
