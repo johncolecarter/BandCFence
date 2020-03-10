@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{7847D449-D12B-4F1C-8CBA-D49EA296E9E9}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BandCFenceAPI.Infrastructure/Data/BuilderRepository.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BandCFenceAPI/Controllers/FenceController.cs">
     <Files>
-      <File FileName="BandCFenceAPI.Infrastructure/Data/FenceRepository.cs" Line="102" Column="1" />
-      <File FileName="BandCFenceAPI/Controllers/FenceController.cs" Line="112" Column="14" />
+      <File FileName="BandCFenceAPI.Infrastructure/Data/FenceRepository.cs" Line="60" Column="75" />
+      <File FileName="BandCFenceAPI/Controllers/FenceController.cs" Line="79" Column="50" />
       <File FileName="BandCFenceAPI.Infrastructure/Data/BuilderRepository.cs" Line="76" Column="48" />
       <File FileName="BandCFenceAPI/Controllers/BuilderController.cs" Line="1" Column="1" />
     </Files>
@@ -12,15 +12,16 @@
           <Node name="BandCFenceAPI" expanded="True">
             <Node name="BandCFenceAPI" expanded="True">
               <Node name="ApiModels" expanded="True" />
-              <Node name="Controllers" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="FenceController.cs" selected="True" />
+              </Node>
             </Node>
             <Node name="BandCFenceAPI.Core" expanded="True">
+              <Node name="Models" expanded="True" />
               <Node name="Services" expanded="True" />
             </Node>
             <Node name="BandCFenceAPI.Infrastructure" expanded="True">
-              <Node name="Data" expanded="True">
-                <Node name="BuilderRepository.cs" selected="True" />
-              </Node>
+              <Node name="Data" expanded="True" />
             </Node>
           </Node>
         </State>

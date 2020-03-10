@@ -26,6 +26,5 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Remove="Controllers\ValuesController.cs" />
-    <Compile Remove="ApiModels\AppUserModel.cs" />
   </ItemGroup>
 </Project>

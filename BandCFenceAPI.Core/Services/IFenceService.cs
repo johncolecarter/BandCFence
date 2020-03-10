@@ -14,7 +14,7 @@ namespace BandCFenceAPI.Core.Services
 
         Fence GetHeight(string heightOfFence);
 
-        Fence GetFeet(int feetOfFence);
+        IEnumerable<Fence> GetFeet(double feetOfFence);
 
         Fence GetAddress(string address);
 

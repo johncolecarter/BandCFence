@@ -45,7 +45,7 @@ namespace BandCFenceAPI.Core.Services
             return _fenceRepo.GetDate(dateTime);
         }
 
-        public Fence GetFeet(int feetOfFence)
+        public IEnumerable<Fence> GetFeet(double feetOfFence)
         {
             return _fenceRepo.GetFeet(feetOfFence);
         }

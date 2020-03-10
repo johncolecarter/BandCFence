@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using BandCFenceAPI.Core.Models;
 using BandCFenceAPI.Core.Services;
@@ -54,9 +55,10 @@ namespace BandCFenceAPI.Infrastructure.Data
             throw new NotImplementedException();
         }
 
-        public Fence GetFeet(int feetOfFence)
+        public IEnumerable<Fence> GetFeet(double feetOfFence)
         {
-            throw new NotImplementedException();
+            return _dbContext.Fences.FromSql("SELECT * FROM Fences WHERE FeetOfFence = {0}", feetOfFence).ToList();
+                    
         }
 
         public Fence GetHeight(string heightOfFence)
@@ -66,6 +68,8 @@ namespace BandCFenceAPI.Infrastructure.Data
 
         public Fence GetType(string typeOfFence)
         {
+            //return _dbContext.Fences
+            //        .Where(f => f.TypeOfFence.Contains(typeOfFence));
             throw new NotImplementedException();
         }
 

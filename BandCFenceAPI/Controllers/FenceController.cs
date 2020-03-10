@@ -63,6 +63,24 @@ namespace BandCFenceAPI.Controllers
             }
         }
 
+        //GET api/fence/feet/{feetOfFence}
+        [AllowAnonymous]
+        [HttpGet("api/fence/feet/{feetOfFence}")]
+        public IActionResult GetFeet(int feetOfFence)
+        {
+            try
+            {
+                var fence = _fenceService.GetFeet(feetOfFence).ToApiModels();
+
+                return Ok(fence);
+            }
+            catch (Exception ex)
+            {
+                ModelState.AddModelError("GetFeet", ex.StackTrace);
+                return BadRequest(ModelState);
+            }
+        }
+
         //GET api/fences/address
         //[AllowAnonymous]
         //[HttpGet("{address}")]
